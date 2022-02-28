@@ -133,9 +133,6 @@ I Enjoy **Design, Frontend, Backend & DevOps**. \
   <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
   </a>
-  <a href="https://www.sqlite.org/" target="_blank" title="SQLite" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/>
-  </a>
   <!-- <a href="https://redis.io" target="_blank" title="Redis" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/>
   </a> -->
