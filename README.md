@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Web & Mobile  Engineering  student ** looking for new challenges.\
+I'm a ** Web & Mobile  Engineering  student ** looking for new challenges.
 
 
 <!-- 👨‍💻 All of my Projects are available [Here](https://my-portfolio-hakim-mh.vercel.app/). -->
