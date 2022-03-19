@@ -6,10 +6,8 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Web & Mobile  Engineer** from Casablanca, \
-For me coding is a way to create dreams into real life applications and solve problems. Not much to share right now. But I'm very dynamic, with a team spirit and looking for new challenges to develop and to prove myself in the job market. \
-I Enjoy **Design, Frontend, Backend & DevOps**. \
-🌱 You Check out my Socials [Here](https://linktr.ee/hakim.mh).
+I'm a **Web & Mobile  Engineering  student ** looking for new challenges.\
+
 
 <!-- 👨‍💻 All of my Projects are available [Here](https://my-portfolio-hakim-mh.vercel.app/). -->
 
